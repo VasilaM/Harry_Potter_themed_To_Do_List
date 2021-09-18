@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">harrypottertodolist</string>
+    <string name="app_label">TaskIt</string>
+    <string name="save">Save</string>
+    <string name="new_task">New Task</string>
+    <string name="tasks">TASKS</string>
+</resources>

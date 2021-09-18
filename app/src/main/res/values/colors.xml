@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gryffindorgold">#CCCF9F01</color>
+    <color name="gryffindorred">#620B0A</color>
+    <color name="goblingrey">#635623</color>
+    <color name="darkmark">#131201</color>
+    <color name="salazar">#013C19</color>
+    <color name="ravenblue">#162C4F</color>
+    <color name="hufflepuff">#B7A802</color>
+    <color name="moaningmyrtle">#8A8F81</color>
+    <color name="gobletoffire">#364463</color>
+    <color name="basilisk">#3B493C</color>
+    <color name="goldensnitch">#B78F55</color>
+    <color name="hogwartsexpress">#B34A2F</color>
+    <color name="mischiefmanaged">#FAE5BB</color>
+    <color name="unicornblood">#F7F8F9</color>
+
+
+
+</resources>
